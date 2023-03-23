@@ -19,7 +19,30 @@ I'm a PhD student at Imperial College London and member of the [Global Environme
 
 
 
+### Selected publications
 
-### Publications
+A B Metzler, R Nathvani, V Sharmanska et. al.. Capturing and characterizing the urban fabric
+of sub-Saharan Africa with very high-resolution satellite imagery and unsupervised machine
+learning. In American Association of Geographers (AAG) Annual Meeting, 2023.
 
-Thomas Burgess, Barbara Metzler, Andreas Ettlinger and Hans-Berndt Neuner. [Geometric Constraint Model and Mobility Graphs for Building Utilization Intelligence.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8533726&tag=1) 2018 International Conference on Indoor Positioning and Indoor Navigation (IPIN) (2018): 1-7.
+E Muller, E Gemmell, I Choudhury, R Nathvani, A B Metzler et. al.. Mapping City-Wide
+Perceptions of Neighbourhood Quality using Street View Images. In
+https://arxiv.org/abs/2211.12139. 2022.
+
+R Nathvani, S N Clark, E Muller, A S Alli, J E Bennett, J Nimo, J B Moses, S Baah, A B Metzler
+et. al.. Characterization of urban environment and activity across space and time using street
+images and deep learning in Accra. In Nature, Scientific Reports, Smart Cities special, 2022.
+
+A B Metzler, R Nathvani, V Sharmanska et. al..Characterization of urban built and natural
+environments with high-resolution satellite images and unsupervised deep learning. In Annual
+Conference of the International Society for Environmental Epidemiology (ISEE), 2022.
+
+R Nathvani, S N Clark, E Muller, A S Alli, J E Bennett, J Nimo, J B Moses, S Baah, A B Metzler
+et. al.. Spatiotemporal characterization of urban activity and environment with imagery and
+deep learning. In Annual Conference of the International Society for Environmental Epidemiology
+(ISEE), 2021.
+
+T Burgess, B Metzler, A Ettlinger, et al.. Geometric Constraint Model and Mobility Graphs for
+Building Utilization Intelligence. In International Conference on Indoor Positioning and Indoor
+Navigation (IPIN), 2018.
+
