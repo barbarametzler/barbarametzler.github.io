@@ -11,9 +11,11 @@ I'm a PhD student at Imperial College London and member of the [Global Environme
 
 
 * * *
-Here for the Accra clustering work? Follow this link: https://barbarametzler.github.io/Clusters-of-Accra/
+Here for the Accra [clustering work](https://barbarametzler.github.io/Clusters-of-Accra/)?
+Help me with interpreting my clusters.
 
 
+* * *
 
 <br><br>
 
