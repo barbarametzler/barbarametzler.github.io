@@ -23,6 +23,10 @@ Help me with interpreting my clusters.
 
 ### Selected publications
 
+A B Metzler, R Nathvani, V Sharmanska et. al.. Phenotyping urban built and natural environments
+with high-resolution satellite images and unsupervised deep learning. In Science of The Total
+Environment (STOTEN), 2023. https://doi.org/10.1016/j.scitotenv.2023.164794
+
 A B Metzler, R Nathvani, V Sharmanska et. al.. Capturing and characterizing the urban fabric
 of sub-Saharan Africa with very high-resolution satellite imagery and unsupervised machine
 learning. In American Association of Geographers (AAG) Annual Meeting, 2023.
@@ -34,6 +38,7 @@ https://arxiv.org/abs/2211.12139. 2022.
 R Nathvani, S N Clark, E Muller, A S Alli, J E Bennett, J Nimo, J B Moses, S Baah, A B Metzler
 et. al.. Characterization of urban environment and activity across space and time using street
 images and deep learning in Accra. In Nature, Scientific Reports, Smart Cities special, 2022.
+https://doi.org/10.1038/s41598-022-24474-1
 
 A B Metzler, R Nathvani, V Sharmanska et. al..Characterization of urban built and natural
 environments with high-resolution satellite images and unsupervised deep learning. In Annual
