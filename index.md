@@ -6,7 +6,9 @@
 
 I'm a PhD candidate at Imperial College London and a member of the [Global Environmental Health Research Group](http://globalenvhealth.org/) and the [Pathways to Equitable Healthy Cities](http://equitablehealthycities.org/) collaboration. My research focuses on analysing urban development with high-resolution satellite imagery and machine learning in Sub-Saharan Africa.
 
+* * *
 
+Download my CV [here](CV_jul 23.pdf).
 <br><br>
 
 
@@ -52,4 +54,3 @@ deep learning. In Annual Conference of the International Society for Environment
 T Burgess, B Metzler, A Ettlinger, et al.. Geometric Constraint Model and Mobility Graphs for
 Building Utilization Intelligence. In International Conference on Indoor Positioning and Indoor
 Navigation (IPIN), 2018.
-
