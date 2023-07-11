@@ -6,9 +6,11 @@
 
 I'm a PhD candidate at Imperial College London and a member of the [Global Environmental Health Research Group](http://globalenvhealth.org/) and the [Pathways to Equitable Healthy Cities](http://equitablehealthycities.org/) collaboration. My research focuses on analysing urban development with high-resolution satellite imagery and machine learning in Sub-Saharan Africa.
 
+
 * * *
 
 Download my CV [here](CV_jul 23.pdf).
+or [here](https://github.com/barbarametzler/barbarametzler.github.io/blob/313d3454f0edc40645014d3e126669b3aec5a856/CV_jul%2023.pdf).
 <br><br>
 
 
