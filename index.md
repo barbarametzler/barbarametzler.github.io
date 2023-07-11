@@ -6,6 +6,8 @@
 
 I'm a **PhD candidate at Imperial College London** and a member of the [Global Environmental Health Research Group](http://globalenvhealth.org/) and the [Pathways to Equitable Healthy Cities](http://equitablehealthycities.org/) collaboration. My research focuses on analysing urban development with high-resolution satellite imagery and machine learning in Sub-Saharan Africa.
 
+My interests include data science, urban inequalities, machine learning for health, computer vision and remote sensing. I'm graduating in September 2024. Always looking for collaborations and new opportunities (specifically in the health tech or agro tech space).
+
 
 * * *
 Download my **CV** [here](CV_jul 23.pdf).
