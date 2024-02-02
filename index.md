@@ -3,10 +3,9 @@
 <br><br>
 
 
+I'm a Research Associate with the Science of Cities and Regions group at the Alan Turing Institute. I'm interested in leveraging deep learning techniques and satellite imagery to enhance traditional data and models for understanding urban areas.
 
-I'm a PhD candidate at Imperial College London and a member of the [Global Environmental Health Research Group](http://globalenvhealth.org/) and the [Pathways to Equitable Healthy Cities](http://equitablehealthycities.org/) collaboration. My research focuses on analysing urban development with high-resolution satellite imagery and machine learning in Sub-Saharan Africa.
-
-My interests include data science & machine learning for health, urban inequalities and remote sensing, as well as computer vision. I'm graduating in September 2023 and always looking for collaborations and new opportunities (specifically in the health tech or agro tech space).
+Before joining the Alan Turing Institute, I obtained my PhD at Imperial College London as part of the [Global Environmental Health Research Group](http://globalenvhealth.org/) and the [Pathways to Equitable Healthy Cities](http://equitablehealthycities.org/) collaboration. My PhD research focussed on characterising urban development with high-resolution satellite imagery and machine learning in Sub-Saharan Africa.
 
 
 * * *
