@@ -26,6 +26,8 @@ Help me with interpreting my clusters.
 
 ### Selected publications
 
+[Google scholar](https://scholar.google.com/citations?user=XLtnLLoAAAAJ&hl=en)
+
 *A B Metzler*, R Nathvani, V Sharmanska et. al.. Phenotyping urban built and natural environments
 with high-resolution satellite images and unsupervised deep learning. In Science of The Total
 Environment (STOTEN), 2023. [https://doi.org/10.1016/j.scitotenv.2023.164794](https://doi.org/10.1016/j.scitotenv.2023.164794)
