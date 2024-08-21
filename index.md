@@ -9,7 +9,7 @@ Before joining the Alan Turing Institute, I obtained my PhD at Imperial College 
 
 
 * * *
-Download my CV [here](CV_jul 23.pdf).
+Download my CV [here](CV_2page_aug24.pdf).
 <br><br>
 
 
