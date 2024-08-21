@@ -3,7 +3,7 @@
 <br><br>
 
 
-I'm a Research Associate with the Science of Cities and Regions group at the Alan Turing Institute. I'm interested in leveraging deep learning techniques and satellite imagery to enhance traditional data and models for understanding urban areas.
+I'm a Research Associate with the Science of Cities and Regions group at the Alan Turing Institute. I'm interested in people, data and foundation models - currently thinking about foundation models in GeoAI.
 
 Before joining the Alan Turing Institute, I obtained my PhD at Imperial College London as part of the [Global Environmental Health Research Group](http://globalenvhealth.org/) and the [Pathways to Equitable Healthy Cities](http://equitablehealthycities.org/) collaboration. My PhD research focussed on characterising urban development with high-resolution satellite imagery and machine learning in Sub-Saharan Africa.
 
