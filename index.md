@@ -3,6 +3,10 @@
 ![alt text](bm.jpg)
 
 
+[Github](https://github.com/barbarametzler) | [LinkedIn](https://uk.linkedin.com/in/a-barbara-metzler-00001) | [Twitter](https://x.com/abarbarame) (not updated)
+
+* * *
+
 I'm a Research Associate with the [Science of Cities and Regions group](https://www.turing.ac.uk/research/research-projects/science-cities-and-regions) at the Alan Turing Institute. I'm interested in people, data and foundation models - currently thinking about foundation models in GeoAI.
 
 Recent projects as part of the Alan Turing Institute:
