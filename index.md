@@ -1,4 +1,4 @@
-Barbara Metzler, PhD
+## Barbara Metzler, PhD
 
 ![alt text](bm.jpg)
 
