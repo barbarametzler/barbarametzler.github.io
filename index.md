@@ -20,11 +20,6 @@ Download my CV [here](CV_2page_aug24.pdf).
 
 
 * * *
-Here for the Accra [clustering work](https://barbarametzler.github.io/Clusters-of-Accra/)?
-Help me with interpreting my clusters.
-
-
-* * *
 
 <br><br>
 
