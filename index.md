@@ -1,3 +1,6 @@
+Barbara Metzler, PhD
+
+![alt text](bm.jpg)
 
 <br><br>
 <br><br>
