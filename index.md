@@ -2,9 +2,6 @@
 
 ![alt text](bm.jpg)
 
-<br><br>
-<br><br>
-
 
 I'm a Research Associate with the [Science of Cities and Regions group](https://www.turing.ac.uk/research/research-projects/science-cities-and-regions) at the Alan Turing Institute. I'm interested in people, data and foundation models - currently thinking about foundation models in GeoAI.
 
