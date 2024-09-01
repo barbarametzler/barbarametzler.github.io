@@ -1,6 +1,6 @@
 
 ![alt text](bm.jpg)
-
+bmetzler (at) turing.ac.uk
 
 [Github](https://github.com/barbarametzler) | [LinkedIn](https://uk.linkedin.com/in/a-barbara-metzler-00001) | [Twitter](https://x.com/abarbarame) (not updated)
 
