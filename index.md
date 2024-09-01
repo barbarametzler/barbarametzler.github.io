@@ -6,7 +6,7 @@
 
 * * *
 
-I'm a Research Associate with the [Science of Cities and Regions group](https://www.turing.ac.uk/research/research-projects/science-cities-and-regions) at the Alan Turing Institute. I'm interested in people, data and foundation models - currently thinking about foundation models in GeoAI.
+I'm a Research Associate with the [Science of Cities and Regions group](https://www.turing.ac.uk/research/research-projects/science-cities-and-regions) at the [Alan Turing Institute](https://www.turing.ac.uk/). I'm interested in people, data and foundation models - currently thinking about foundation models in GeoAI.
 
 Recent projects as part of the Alan Turing Institute:
 - [Are you smarter than a foundation model? (Online game)](https://are-you-smarter-than-a-foundational-model.vercel.app/)
