@@ -15,7 +15,7 @@ Recent projects as part of the Alan Turing Institute:
 - [EuroFab](https://eurofab-project.github.io/)
 
 
-Before joining the Alan Turing Institute, I obtained my PhD at Imperial College London as part of the [Global Environmental Health Research Group](http://globalenvhealth.org/) and the [Pathways to Equitable Healthy Cities](http://equitablehealthycities.org/) collaboration. My PhD research focussed on characterising urban development with high-resolution satellite imagery and machine learning in Sub-Saharan Africa.
+Before joining the Alan Turing Institute, I obtained my PhD at Imperial College London as part of the [Global Environmental Health Research Group](http://globalenvhealth.org/) and the [Pathways to Equitable Healthy Cities](http://equitablehealthycities.org/) collaboration. My PhD research focussed on characterising urban development with high-resolution satellite imagery and self-supervised deep learning in Sub-Saharan Africa.
 
 * * *
 
