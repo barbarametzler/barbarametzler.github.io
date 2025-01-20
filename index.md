@@ -7,7 +7,7 @@ bmetzler (at) turing.ac.uk
 
 * * *
 
-I'm a Research Associate with the [Science of Cities and Regions group](https://www.turing.ac.uk/research/research-projects/science-cities-and-regions) at the [Alan Turing Institute](https://www.turing.ac.uk/). I'm interested in data, people and foundation models - currently thinking about foundation models in GeoAI.
+I'm a [researcher](https://www.turing.ac.uk/people/researchers/barbara-metzler) in machine learning and AI with a focus on foundational models and their applications across domains, including geospatial AI.
 
 Recent projects as part of the Alan Turing Institute:
 - [Are you smarter than a foundation model? (Online game)](https://are-you-smarter-than-a-foundational-model.vercel.app/)
@@ -17,9 +17,10 @@ Recent projects as part of the Alan Turing Institute:
 
 Before joining the Alan Turing Institute, I obtained my PhD at Imperial College London as part of the [Global Environmental Health Research Group](http://globalenvhealth.org/) and the [Pathways to Equitable Healthy Cities](http://equitablehealthycities.org/) collaboration. My PhD research focussed on characterising urban development with high-resolution satellite imagery and self-supervised deep learning in Sub-Saharan Africa.
 
+
 * * *
 
-Download my CV [here](cv_metzler_oct24.pdf).
+Download my CV [here](CV_metzler_2501.pdf).
 <br><br>
 
 
