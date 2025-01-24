@@ -1,5 +1,5 @@
 
-![alt text](bm 2.jpg)
+![alt text](bm2.jpg)
 
 bmetzler (at) turing.ac.uk
 
