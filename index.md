@@ -1,12 +1,10 @@
 
 ![alt text](bm2.jpg)
 
-bmetzler (at) turing.ac.uk
-
 [Github](https://github.com/barbarametzler) | [LinkedIn](https://uk.linkedin.com/in/a-barbara-metzler-00001) 
 
 * * *
-Update: I now work for BBC Verify.
+Update: I now work at BBC Verify. 
 
 I'm a [researcher](https://www.turing.ac.uk/people/researchers/barbara-metzler) in machine learning and AI with a focus on foundational models and their applications across domains, including geospatial AI.
 
