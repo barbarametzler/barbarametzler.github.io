@@ -2,7 +2,7 @@
 layout: page
 title: portfolio
 permalink: /portfolio/
-description: A selection of my work at BBC Verify — visual investigations and short-form video, combining satellite imagery, geospatial data and open-source techniques.
+description: A selection of my work at BBC Verify — visual investigations and short-form video that combine satellite imagery, geospatial data and open-source techniques
 nav: true
 nav_order: 2
 display_categories: [articles, videos]

@@ -49,7 +49,7 @@ self-supervised deep learning in Sub-Saharan Africa.
 {% include news.liquid limit=true %}
 
 <div class="projects" style="max-width: 560px;">
-  <h2 class="mt-4">selected work</h2>
+  <h2 class="mt-4">recent work</h2>
   <div class="row row-cols-1">
   {% assign ship = site.projects | where: "home_preview", true | first %}
   {% if ship %}{% assign project = ship %}{% include projects_horizontal.liquid %}{% endif %}
