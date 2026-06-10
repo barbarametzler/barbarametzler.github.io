@@ -11,14 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-portfolio",
           title: "portfolio",
-          description: "A selection of my work at BBC Verify — visual investigations and short-form video, combining satellite imagery, geospatial data and open-source techniques.",
+          description: "A selection of my work at BBC Verify — visual investigations and short-form video that combine satellite imagery, geospatial data and open-source techniques",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/";
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "academic publications in reverse chronological order.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
