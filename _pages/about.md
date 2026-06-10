@@ -28,8 +28,9 @@ I am a Senior Data Scientist at [BBC Verify](https://www.bbc.co.uk/news/bbcverif
 satellite imagery, geospatial data and open-source techniques to investigate and verify news
 stories.
 
-My background is in machine learning and AI, with a focus on foundation models and their
-applications across domains, including geospatial AI. Shortly before joining BBC Verify, I was a
+My background is in remote sensing and AI, with experience in foundation models across text and
+vision. I've worked with open-source satellite data like Copernicus Sentinel, plus high-resolution
+radar and optical imagery for detailed analysis. Shortly before joining BBC Verify, I was a
 founding engineer at a geospatial tech startup. Before that, I was a
 [researcher](https://www.turing.ac.uk/people/researchers/barbara-metzler) at The Alan Turing
 Institute, where I worked on projects including:
