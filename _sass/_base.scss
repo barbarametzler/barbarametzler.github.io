@@ -183,6 +183,12 @@ ul.task-list input[type="checkbox"] {
 
   .card-body {
     padding: 1.25rem 1.25rem 1.25rem 1.25rem;
+
+    // Match the site's light (300) headings. Needs the extra .card-body
+    // specificity to beat MDB's `.card .card-body h*` { font-weight: 400 }.
+    .card-title {
+      font-weight: 300;
+    }
   }
 }
 
