@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "news-i-joined-bbc-verify-as-a-senior-data-scientist",
-          title: 'I joined BBC Verify as a Senior Data Scientist.',
+        },{id: "news-i-joined-bbc-verify-as-a-senior-data-scientist-and-satellite-imagery-specialist",
+          title: 'I joined BBC Verify as a Senior Data Scientist and Satellite Imagery Specialist....',
           description: "",
           section: "News",},{id: "projects-black-rain-over-tehran",
           title: 'Black rain over Tehran',
