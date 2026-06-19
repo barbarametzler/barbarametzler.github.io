@@ -41,6 +41,11 @@ ninja.data = [{
           description: "The satellite investigation into Gaza&#39;s levelled neighbourhoods, adapted as a short-form video for BBC News.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gaza-reel/";
+            },},{id: "projects-why-ships-aren-39-t-sailing-through-the-strait-of-hormuz",
+          title: 'Why ships aren&amp;#39;t sailing through the Strait of Hormuz',
+          description: "Three obstacles keeping maritime traffic below pre-conflict levels — security, mines and tolls.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hormuz-shipping/";
             },},{id: "projects-iranian-navy-and-nuclear-sites-hit",
           title: 'Iranian navy and nuclear sites hit',
           description: "Satellite images reviewed by BBC Verify show US-Israeli strikes destroyed at least 11 Iranian naval vessels.",
