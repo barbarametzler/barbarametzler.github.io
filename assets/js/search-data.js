@@ -41,6 +41,11 @@ ninja.data = [{
           description: "The satellite investigation into Gaza&#39;s levelled neighbourhoods, adapted as a short-form video for BBC News.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gaza-reel/";
+            },},{id: "projects-ships-return-to-the-strait-of-hormuz-after-us-iran-deal",
+          title: 'Ships return to the Strait of Hormuz after US-Iran deal',
+          description: "Maritime traffic rebounds following a US-Iran deal — 42 ships passed through on a single Saturday.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hormuz-reopen/";
             },},{id: "projects-why-ships-aren-39-t-sailing-through-the-strait-of-hormuz",
           title: 'Why ships aren&amp;#39;t sailing through the Strait of Hormuz',
           description: "Three obstacles keeping maritime traffic below pre-conflict levels — security, mines and tolls.",
@@ -61,6 +66,11 @@ ninja.data = [{
           description: "BBC Verify analysis found more than 1,400 buildings destroyed since 2 March, mapped from satellite imagery.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lebanon-demolitions/";
+            },},{id: "projects-nursery-safety-new-safe-sleep-checks-and-inspections",
+          title: 'Nursery safety — new safe-sleep checks and inspections',
+          description: "A BBC investigation into nursery safety that prompted new safe-sleep checks and 3,000 extra unannounced inspections a year in England.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/nursery-safety/";
             },},{id: "projects-rebuilding-gaza-after-two-years-of-war",
           title: 'Rebuilding Gaza after two years of war',
           description: "Assessing the scale of the damage from satellite imagery — a reconstruction estimated at $70bn and decades of work.",
