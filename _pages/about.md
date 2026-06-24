@@ -26,7 +26,8 @@ latest_posts:
 
 I am a Senior Data Scientist at [BBC Verify](https://www.bbc.co.uk/news/bbcverify), where I use
 satellite imagery, geospatial data and open-source techniques to investigate and verify news
-stories.
+stories. I also use AI methods for investigations — bespoke foundation-model applications,
+including computer vision and LLM RAG systems.
 
 My background is in remote sensing and AI, with experience in foundation models across text and
 vision. I've worked with open-source satellite data like Copernicus Sentinel, plus high-resolution
