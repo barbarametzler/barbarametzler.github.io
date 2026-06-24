@@ -68,7 +68,7 @@ ninja.data = [{
               window.location.href = "/projects/lebanon-demolitions/";
             },},{id: "projects-nursery-safety-new-safe-sleep-checks-and-inspections",
           title: 'Nursery safety — new safe-sleep checks and inspections',
-          description: "A BBC investigation into nursery safety that prompted new safe-sleep checks and 3,000 extra unannounced inspections a year in England.",
+          description: "Data analysis for a BBC investigation into nursery safety; the government announced thousands of extra unannounced inspections the day it was published.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/nursery-safety/";
             },},{id: "projects-rebuilding-gaza-after-two-years-of-war",
