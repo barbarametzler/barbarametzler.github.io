@@ -31,6 +31,11 @@ ninja.data = [{
           description: "How air strikes on Tehran&#39;s oil facilities caused black rain and what scientists called unprecedented pollution.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/black-rain/";
+            },},{id: "projects-cuba-39-s-fuel-crisis-in-video",
+          title: 'Cuba&amp;#39;s fuel crisis, in video',
+          description: "A BBC News short-form video on how US sanctions and an effective oil blockade have deepened Cuba&#39;s shortages of fuel, medicine and food.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cuba-fuel-crisis-reel/";
             },},{id: "projects-mapping-building-demolitions-in-gaza",
           title: 'Mapping building demolitions in Gaza',
           description: "More than 1,500 buildings levelled in Israeli-controlled areas since the ceasefire, mapped from satellite imagery.",
