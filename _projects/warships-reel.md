@@ -3,10 +3,9 @@ layout: page
 title: Tracking US warships from open sources
 description: A BBC Verify explainer on how the USS Abraham Lincoln can be located even when it isn't transmitting its position.
 img: assets/img/portfolio/warships-reel.jpg
-importance: 1
+importance: 2
 category: videos
 story_date: May 2026
-home_preview: true # featured as the single preview on the homepage
 ---
 
 A short-form video for BBC News explaining how BBC Verify tracked the movements of the
