@@ -61,6 +61,11 @@ ninja.data = [{
           description: "Satellite images reviewed by BBC Verify show US-Israeli strikes destroyed at least 11 Iranian naval vessels.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/iran-navy-nuclear/";
+            },},{id: "projects-iran-nuclear-and-military-damage-revealed-in-restricted-satellite-images",
+          title: 'Iran nuclear and military damage revealed in restricted satellite images',
+          description: "Restricted satellite imagery reveals damage to ballistic missile infrastructure, nuclear sites and naval bases.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/iran-nuclear-satellite/";
             },},{id: "projects-iran-school-and-military-base-struck",
           title: 'Iran school and military base struck',
           description: "Satellite imagery reveals a school and a nearby military base were struck multiple times.",
